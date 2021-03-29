@@ -14,6 +14,6 @@ result = float(pi) * float(num4)
 print("The Circumfrence of your Circle is:")
 print(result)
 print(
-  "Thank you for using my Area and Circumfrence of a Circle Calculator"
+  "Thank you for using my Area and Circumfrence of a Circle Calculator "
    + firstname 
    + "!")
