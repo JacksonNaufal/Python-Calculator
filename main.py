@@ -1,4 +1,4 @@
-print("Area and Circumfrence of a Circle Calculator!")
+print("Area and Circumference of a Circle Calculator!")
 diameter = 6
 quater = 0.25
 pi = 3.1415
@@ -11,7 +11,7 @@ print("The Area of your Circle is:")
 print(result)
 num4 = input("Enter Diameter for Circumference!:")
 result = float(pi) * float(num4)
-print("The Circumfrence of your Circle is:")
+print("The Circumference of your Circle is:")
 print(result)
 print(
     "Thank you for using my Area and Circumference of a Circle Calculator "
